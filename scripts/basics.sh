@@ -9,16 +9,13 @@ sudo apt install -y ack-grep tree
 sudo apt install -y ncdu htop
 
 # internet
-sudo apt install -y wget curl whois
+sudo apt install -y wget curl
 
 # terminal system tools
 sudo apt install -y terminator ssh rsync
 
 # Password Safety
 sudo apt install -y passwdqc
-
-# crypt setup
-sudo apt install -y ecryptfs-utils cryptsetup gparted
 
 # compression
 sudo apt install -y unzip

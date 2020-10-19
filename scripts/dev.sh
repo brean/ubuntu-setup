@@ -7,8 +7,6 @@ sudo apt install -y make cmake g++ gcc git gitk
 # sudo snap install intellij-idea-community
 
 ./python.sh
-./js.sh
 
 # switched from atom to code
-# ./atom.sh
 ./code.sh
