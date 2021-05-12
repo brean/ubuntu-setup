@@ -11,4 +11,4 @@ sudo apt-get -y install ros-noetic-ros-base
 
 echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
 
-sudo apt install 
+sudo apt install -y gazebo11
