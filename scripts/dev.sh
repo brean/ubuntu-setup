@@ -11,4 +11,6 @@ sudo apt install -y make cmake g++ gcc git gitk
 
 # switched from atom to code
 # ./atom.sh
-./code.sh
+# ... and code to codium
+# ./code.sh
+./codium.sh
