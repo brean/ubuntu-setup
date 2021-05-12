@@ -14,5 +14,6 @@ sudo apt-get install -y nvidia-docker2 docker-compose
 
 sudo systemctl restart docker
 
+sudo usermod -aG docker $USER
 # test using: sudo docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
 
