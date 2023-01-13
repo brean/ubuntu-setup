@@ -7,4 +7,4 @@ sudo apt install -y vanilla-gnome-desktop
 sudo apt remove -y gnome-shell-extension-ubuntu-dock
 
 # Gnome system tools
-sudo apt install -y gnome-tweak-tool gkrellm
+sudo apt install -y gnome-tweaks gkrellm
