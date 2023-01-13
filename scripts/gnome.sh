@@ -8,3 +8,6 @@ sudo apt remove -y gnome-shell-extension-ubuntu-dock
 
 # Gnome system tools
 sudo apt install -y gnome-tweaks gkrellm
+
+# workspaces on all monitors for multi-monitor setups
+gsettings set org.gnome.mutter workspaces-only-on-primary false
