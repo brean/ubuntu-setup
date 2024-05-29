@@ -8,4 +8,4 @@ sudo apt -y upgrade
 #./devops.sh
 #./latex.sh
 ./graphics.sh
-./chrome.sh
+./ungoogled-chromium.sh
