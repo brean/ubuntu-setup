@@ -6,7 +6,7 @@ sudo apt install -y vim sed
 sudo apt install -y ack-grep tree
 
 # system monitoring
-sudo apt install -y ncdu htop
+sudo apt install -y ncdu htop btop
 
 # internet
 sudo apt install -y wget curl whois

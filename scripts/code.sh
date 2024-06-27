@@ -1,5 +1,5 @@
 #!/bin/bash
-# MS Visual Studio Code
+# MS Visual Studio Code - for unreal engine
 sudo apt install -y code
 
 code --install-extension file-icons.file-icons
