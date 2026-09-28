@@ -11,3 +11,8 @@ sudo apt install -y gnome-tweaks gkrellm
 
 # workspaces on all monitors for multi-monitor setups
 gsettings set org.gnome.mutter workspaces-only-on-primary false
+
+# keyboard shortcut fixes
+gsettings set org.gnome.desktop.wm.keybindings unmaximize "['<Super>Down']"
+gsettings set org.gnome.desktop.wm.keybindings maximize "['<Super>Up']"
+
