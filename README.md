@@ -1,2 +1,2 @@
 # ubuntu-setup
-Setup scripts for setting up an initial Ubuntu system
+Setup scripts for setting up my Ubuntu workstation (before installing ROS)
